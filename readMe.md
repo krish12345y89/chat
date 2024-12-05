@@ -34,8 +34,6 @@ npm install
 
 It seems the issue with your README file is that you're not using Markdown syntax properly, which is crucial for structuring the content when displayed on platforms like GitHub. Below is a properly formatted version of your README using Markdown:
 
-markdown
-Copy code
 # Chat Application Backend
 
 This repository contains the backend of a chat application. Follow the steps below to set it up and run it on your system.
@@ -71,9 +69,11 @@ Copy code
 npm install
 Start the Backend
 Use the following command to start the server:
-npm start
 
-res
+bash
+Copy code
+npm start
+Project Features
 Real-Time Communication: Supports real-time messaging between users.
 Scalable: Designed with scalability in mind, leveraging modern backend technologies.
 Environment Variable Configuration: Easily configurable via .env files.
