@@ -1,16 +1,15 @@
-````markdown
-# 💬 Chat Application Backend
+# Chat Application Backend
 
 This repository contains the backend of a real-time chat application. Follow the steps below to set it up and run it on your system.
 
 ---
 
-## ✅ Prerequisites
+## Prerequisites
 
 Before running the project, ensure the following are installed and configured on your system:
 
 1. **Node.js**  
-   👉 [Download and install Node.js](https://nodejs.org/)
+   [Download and install Node.js](https://nodejs.org/)
 
 2. **MongoDB**  
    - Install locally: [Download MongoDB](https://www.mongodb.com/try/download/community)  
@@ -18,13 +17,14 @@ Before running the project, ensure the following are installed and configured on
 
 ---
 
-## ⚙️ Setup Guide
+## Setup Guide
 
 ### 1. Clone the Repository
 
 ```bash
 git clone <repository-url>
 cd <repository-directory>
+
 ````
 
 ### 2. Configure Environment Variables
